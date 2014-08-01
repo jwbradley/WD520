@@ -1,0 +1,2 @@
+npm ERR! extraneous: generator-angular@0.9.5 C:\James\yeoman\node_modules\generator-angular
+npm ERR! not ok code 0

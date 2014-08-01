@@ -1,0 +1,36 @@
+{{> begin}}
+
+<h1 class='title'>{{ title }}</h1>
+<p>Welcome to <span class='title'>{{ title }}</span></p>
+<p>The hour is {{hour}}</p>
+{{#isMorning}}
+<span>Good <strong>morning</strong> to you from <span class="title">{{ title }}</span></span>
+{{/isMorning}}
+{{#isAfternoon}}
+<span>Good <strong>afternoon</strong> to you from <span class="title">{{ title }}</span></span>
+{{/isAfternoon}}
+{{#isEvening}}
+<span>Good <strong>evening</strong> to you from <span class="title">{{ title }}</span></span>
+{{/isEvening}}
+{{#isLate}}
+<span>Hello, it's getting late.</span>
+{{/isLate}}
+
+<br/>
+<br/>
+<button id='btn_changeTitles'>Change titles</button>
+<script>
+var newTitle = 'Express + Hogan';
+function changeTitles(){
+var titles = document.getElementsByClassName('title');
+i = titles.length;
+while (i--) {
+titles[i].innerHTML = newTitle;
+}
+document.title = newTitle;
+}
+document.getElementById('btn_changeTitles').onclick = changeTitles;  
+</script>
+
+</body>
+</html>

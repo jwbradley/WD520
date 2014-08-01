@@ -1,0 +1,40 @@
+extends layout
+
+block content
+	h1= title
+	p Welcome to #{title}
+
+	- hour = new Date().getHours();
+
+	if hour >= 12
+		span
+			| Good
+			strong afternoon
+			| to you
+			| from
+			span.title #{title}
+	else if hour < 12
+		span
+			| Good
+			strong morning
+			| to you
+			| from 
+			span.title #{title}
+	else
+		span.
+			Hello, I really don't know 
+			what time it is.
+
+	br
+	br
+	script.
+		var newTitle = 'Express + Jade';
+		var titles = document.getElementsByClassName('title');
+		function changeTitles() {
+			i = titles.length;
+			while (i--) {
+				titles[i].innerHTML = newTitle;
+			}
+		}
+
+	button(onclick='changeTitles()') Change titles

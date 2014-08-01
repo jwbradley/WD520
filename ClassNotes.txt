@@ -1,0 +1,292 @@
+
+Figure out if the Mid-Continent library is compatible with KC Library:
+http://www.mymcpl.org/
+
+Technology Radar - www.thoughtworks.com/radar
+	- Martin Fowler -- look him up
+
+	
+AngularJS-- We continue to see JavaScript frameworks as a useful way to structure code and bring better 
+coding techniques to JavaScript. AngularJS is used widely by ThoughtWorks projects. However we do advise 
+teams to assess other good alternatives such as Ember.js and Knockout.js.
+
+Dependency management for JavaScript
+Using Dependency management tools for JavaScript has helped our delivery teams handle large amounts of 
+JavaScript by structuring their code and loading the dependencies at runtime. Though this simplified 
+the effort in most cases, lazy loading complicates supporting offline mode. Different dependency 
+management tools have different strengths, so choose based on your context.
+
+Ansible
+Since first featuring Ansible in the last radar, we continue to be impressed with its capabilities and 
+ease of use compared to other offerings in this space. Based on our experiences over the last year we 
+have no hesitation in recommending Ansible as a great option for automated control of your infrastructure.
+
+
+Java 8 new *****
+The team behind Java 8 had to fight two battles: the community forces encouraging forever backwards 
+compatibility (a long hallmark of Java) and the technical challenge of making a deep language change 
+mesh with existing libraries and features. They succeeded on both fronts, breathing new life into the 
+Java Language and placing it on par with other mainstream languages in terms of functional programming 
+features. In particular, Java 8 has excellent syntactic magic that allows seamless interoperability 
+between Lambda blocks, the new higher-order function feature, and SAM (Single Abstract Method) 
+interfaces, the traditional way of passing behavior.
+
+
+
+http://lesscss.org/
+Less is a CSS pre-processor, meaning that it extends the CSS language, adding features that allow 
+variables, mixins, functions and many other techniques that allow you to make CSS that is more 
+maintainable, themable and extendable.
+
+Less runs inside Node, in the browser and inside Rhino. There are also many 3rd party tools that 
+allow you to compile your files and watch for changes.
+
+
+
+http://www.microsoft.com/bizspark/
+Why Microsoft BizSpark?
+
+A free program dedicated to startups.
+Software & Tools to build apps.
+Technology to get in the cloud.
+Connect to 100,000+ startups and 1,500+ startup orgs.
+
+
+
+Become a Social Developer!
+http://getinvolved.hanselman.com/
+In this feature-length production, Scott Hanselman and Rob Conery offer suggestions and advice on 
+how you can get out there, and get involved. Blogging, Twitter, Github, StackOverflow, User Groups 
+and Conferences: all of this can make you a happier, more productive developer and inspire you to 
+take your career to the next level.
+
+You certainly don't have to be social to be better at writing code - but sharpening your skills 
+this way helps you when it comes time for a job interview, a yearly review where a promotion is 
+on the line, or when you want to start running an Open Source project.
+
+
+
+http://statcounter.com/
+StatCounter's mission is to help our members easily understand their visitors, so they can make good 
+decisions to become more successful online.
+
+
+http://caniuse.com/
+"Can I use" provides up-to-date browser support tables for support of front-end web technologies 
+on desktop and mobile web browsers.
+
+
+ECMAScript 5 compatibility table
+http://kangax.github.io/compat-table/es5/
+
+
+http://facebook.github.io/fb-flo/
+fb-flo is a Chrome extension that lets you modify running apps without reloading. It's easy to 
+integrate with your build system, dev environment, and can be used with your favorite editor.
+
+Live edit JavaScript, CSS, Images and basically any static resource.
+Works with your editor of your choice.
+Easily integrates with your build step, no matter how complex.
+Easily integrates with your dev environment.
+Configurable and hackable.
+
+
+***** Free places on the net to try different browsers with the web app.  Check your code against them.
+
+
+
+http://emmet.io/
+Emmet — the essential toolkit for web-developers
+
+http://jshint.com/
+
+
+
+Code the Web
+Brackets is an open source code editor for web designers and front-end developers.
+http://brackets.io/
+
+
+https://creative.adobe.com/products/code
+Edge Code is a lightweight code editor for web developers and designers working with HTML, CSS, and 
+JavaScript. Edge Code is built to work with browsers, speeding up development time by displaying 
+changes to the code directly on the screen.
+
+
+http://coffeescript.org/
+CoffeeScript is a little language that compiles into JavaScript. Underneath that awkward Java-esque patina, JavaScript has always had a gorgeous heart. CoffeeScript is an attempt to expose the good parts of JavaScript in a simple way.
+
+The golden rule of CoffeeScript is: "It's just JavaScript". The code compiles one-to-one into the equivalent JS, and there is no interpretation at runtime. You can use any existing JavaScript library seamlessly from CoffeeScript (and vice-versa). The compiled output is readable and pretty-printed, will work in every JavaScript runtime, and tends to run as fast or faster than the equivalent handwritten JavaScript.
+
+http://www.typescriptlang.org/
+TypeScript lets you write JavaScript the way you really want to.
+TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
+Any browser. Any host. Any OS. Open Source
+
+http://haxe.org/
+Haxe is an open source toolkit based on a modern, high level, strictly typed programming language, a cross-compiler, a complete cross-platform standard library and ways to access each platform's native capabilities.
+
+
+https://developer.mozilla.org/en-US/docs/Mozilla/Projects/Rhino
+
+Rhino is an open-source implementation of JavaScript written entirely in Java. It is typically embedded into Java applications to provide scripting to end users. It is embedded in J2SE 6 as the default Java scripting engine.
+
+http://javascript.crockford.com/
+
+
+http://cdnjs.com/
+//cdnjs.cloudflare.com/ajax/libs/Sortable/0.3.0/Sortable.min.js
+Everyone loves the Google CDN right? Even Microsoft runs their own CDN. 
+The problem is, they only host the most popular libraries. 
+We host it all - JavaScript, CSS, SWF, images, etc!
+
+
+
+
+JavaScript Weekly
+http://javascriptweekly.com/issues/191
+
+http://www.codecademy.com
+user = jwbradley
+pswd = mustang
+
+http://mloc-js.com/2014/It’s happening, JavaScript is one of the most popular languages and it’s conquering the server side and the internet of things as well. JavaScript is just eighteen years old, and the future is bright. But how this future looks like? How can we improve JavaScript to make it better, focusing on large scale projects with millions lines of code?
+
+http://famo.us/
+Famo.us is the only JavaScript framework that includes an open source 3D layout engine fully integrated with a 3D physics animation engine that can render to DOM, Canvas, or WebGL.
+
+
+
+http://passportjs.org/
+Passport is authentication middleware for Node.js. Extremely flexible and modular, Passport can be unobtrusively dropped in to any Express-based web application. A comprehensive set of strategies support authentication using a username and password, Facebook, Twitter, and more.
+
+
+https://stormpath.com/
+The User Management API 
+For Developers 
+Stormpath is the fastest way to add complete user management to your application: login, user profiles, groups and roles, permissions, and password security - ready in minutes.
+
+http://aws.amazon.com/websites/
+Amazon Web Services offers cloud website hosting solutions that provides businesses, non-profits, and governmental organizations with a flexible, highly scalable, and low-cost way to deliver their websites and web applications.
+
+http://azure.microsoft.com/en-us/
+The cloud for modern business
+Move faster
+Save money
+Integrate on-premises apps and data
+Never wait for servers
+or infrastructure again
+Instantly provision Windows and Linux Virtual Machines, apps, and infrastructure within Microsoft-managed data centers around the world.
+
+https://travis-ci.org/
+
+http://gruntjs.com/
+The Grunt ecosystem is huge and it's growing every day. With literally hundreds of plugins to choose from, you can use Grunt to automate just about anything with a minimum of effort. If someone hasn't already built what you need, authoring and publishing your own Grunt plugin to npm is a breeze.
+
+http://gulpjs.com/
+Same as Grunt, but better if you are a coder.
+
+http://nodejs.org/
+Node.js is a platform built on Chrome's JavaScript runtime for easily building fast, scalable network applications. Node.js uses an event-driven, non-blocking I/O model that makes it lightweight and efficient, perfect for data-intensive real-time applications that run across distributed devices.
+
+http://todomvc.com/
+Developers these days are spoiled with choice when it comes to selecting an MV* framework for structuring and organizing their JavaScript web apps.
+
+
+http://bower.io/
+Web sites are made of lots of things — frameworks, libraries, assets, utilities, and rainbows. Bower manages all these things for you.
+
+Bower works by fetching and installing packages from all over, taking care of hunting, finding, downloading, and saving the stuff you’re looking for. Bower keeps track of these packages in a manifest file, bower.json. How you use packages is up to you. Bower provides hooks to facilitate using packages in your tools and workflows.
+
+
+
+http://msysgit.github.io/
+Git for Windows focuses on offering a lightweight, native set of tools that bring the full feature set of the Git SCM to Windows while providing appropriate user interfaces for experienced Git users and novices alike
+
+https://github.com/octocat/Spoon-Knife
+This repository is meant to provide an example for forking a repository on GitHub.
+
+Creating a fork is producing a personal copy of someone else's project. Forks act as a sort of bridge between the original repository and your personal copy. You can submit Pull Requests to help make other people's projects better by offering your changes up to the original project. Forking is at the core of social coding at GitHub.
+
+
+
+Scheduling (cron)
+https://github.com/rschmukler/agenda
+
+
+
+http://www.infoq.com/
+Software is changing the world. InfoQ was founded in 2006 with the purpose of facilitating the spread of knowledge and innovation in enterprise development. We do this by providing our audience with unbiased, practitioner-driven conferences, content, and online community.
+
+http://rexstjohn.com/node-js-lessons-trenches/
+
+
+https://browserling.com/
+interactive cross-browser testing
+
+
+http://2014.jsconf.us/
+JSConf has been the launch pad for many of the greatest things that we now take for granted on the web. This year will be no exception thanks to our famously unique call for speakers process designed to spotlight the new faces and ideas in the community. Like last year, we are including a Training Track to give you the perfect blend of future and practical all at one amazing event.
+
+
+http://git-scm.com/downloads/guis
+Git comes with built-in GUI tools for committing (git-gui) and browsing (gitk), but there are several third-party tools for users looking for platform-specific experience.
+
+http://requirejs.org/
+RequireJS is a JavaScript file and module loader. It is optimized for in-browser use, but it can be used in other JavaScript environments, like Rhino and Node. Using a modular script loader like RequireJS will improve the speed and quality of your code.
+
+http://www.commonjs.org/
+http://wiki.commonjs.org/wiki/CommonJS
+JavaScript is a powerful object oriented language with some of the fastest dynamic language interpreters around. The official JavaScript specification defines APIs for some objects that are useful for building browser-based applications. However, the spec does not define a standard library that is useful for building a broader range of applications.
+The CommonJS API will fill that gap by defining APIs that handle many common application needs, ultimately providing a standard library as rich as those of Python, Ruby and Java. The intention is that an application developer will be able to write an application using the CommonJS APIs and then run that application across different JavaScript interpreters and host environments.
+
+
+WHY AMD?
+http://requirejs.org/docs/whyamd.html#commonjs
+
+
+https://www.webyog.com/
+FOR DEVELOPERS
+SQLyog MySQL GUI SQLyog MySQL GUI
+SQLyog is the most powerful MySQL manager and admin tool, combining the features of MySQL Administrator, phpMyAdmin and other MySQL Front Ends and MySQL GUI tools.
+
+
+
+
+C:\James\yeoman>npm  ls > npm-local-modules.txt 2> npm-errors.txt
+
+C:\James\yeoman>npm  ls > npm-local-modules-and-errors.txt 2< %1
+The system cannot find the file specified.
+
+C:\James\yeoman>npm  ls > npm-local-modules-and-errors.txt 2<%1
+The system cannot find the file specified.
+
+C:\James\yeoman>npm  ls > npm-local-modules.txt 2<%1
+The system cannot find the file specified.
+
+C:\James\yeoman>npm  ls > npm-local-modules-plusErrors.txt 2<&1
+
+C:\James\yeoman>
+
+
+http://expressjs.com/
+express
+web application framework for node
+
+
+HTML5 Boilerplate generator 
+https://www.npmjs.org/package/generator-h5bp
+Getting started
+
+Install: npm install -g generator-h5bp
+Run it with yo: yo h5bp
+Related
+You might also find the Mobile Boilerplate and Server Configs generators useful.
+https://github.com/h5bp/generator-mobile-boilerplate
+
+
+
+
+
+
+

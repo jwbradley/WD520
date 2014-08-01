@@ -1,0 +1,33 @@
+<% include htmlBegin %>
+	<h1 class='title'><%= title %></h1>
+	<p>Welcome to <span class='title'><%= title %></span></p>
+	<% var hour = new Date().getHours(); %>
+		<p>The hour is <%= hour %></p>
+	<% if (hour < 12) { %>
+		<span>Good <strong>morning</strong> to you from <span class="title"><%= title %></span></span>
+	<% } else if ( hour < 18 ) { %>
+		<span>Good <strong>afternoon</strong> to you from <span class="title"><%=title %></span></span>
+	<% } else if ( hour < 22 ) { %>
+		<span>Good <strong>evening</strong> to you from <span class="title"><%=title %></span></span>
+	<% } else  { %>
+		<span>Hello, it's getting late.</span>
+	<% }  %>
+
+	<br />
+	<br />
+	<button id='btn_changeTitles'>Change Titles</button>
+
+	<script>
+		var newTitle = 'Express + EJS';
+		var titles = document.getElementsByClassName('title');
+		function changeTitles() {
+			i = titles.length;
+			while (i--) {
+				titles[i].innerHTML = newTitle;
+			}
+			document.title = newTitle;
+		}
+		document.getElementById('btn_changeTitles').onclick = changeTitles;
+	</script>
+  </body>
+</html>

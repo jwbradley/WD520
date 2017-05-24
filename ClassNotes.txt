@@ -147,8 +147,8 @@ JavaScript Weekly
 http://javascriptweekly.com/issues/191
 
 http://www.codecademy.com
-user = jwbradley
-pswd = mustang
+user = 
+pswd = 
 
 http://mloc-js.com/2014/It’s happening, JavaScript is one of the most popular languages and it’s conquering the server side and the internet of things as well. JavaScript is just eighteen years old, and the future is bright. But how this future looks like? How can we improve JavaScript to make it better, focusing on large scale projects with millions lines of code?
 
